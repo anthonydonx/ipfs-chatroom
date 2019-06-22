@@ -2,7 +2,7 @@
 
 const getIpfs = require('window.ipfs-fallback')
 
-const TOPIC = 'chat'
+const TOPIC = 'schluss'
 
 function createChatStore () {
   return function chatStore (state, emitter) {
@@ -39,7 +39,7 @@ function createChatStore () {
           config: {
             Addresses: {
               Swarm: [
-                '/dns4/ws-star.discovery.libp2p.io/tcp/443/wss/p2p-websocket-star'
+                '/ip4/54.194.27.70/tcp/4001/ipfs/QmeoXGrcarpft3kUZBG2rtLLMqgerr7At5ZpbMPzYPrePR'
               ]
             }
           },
