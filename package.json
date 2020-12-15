@@ -29,7 +29,7 @@
   "license": "MIT",
   "dependencies": {
     "choo": "^6.8.0",
-    "ecstatic": "^3.2.0",
+    "ecstatic": "^4.1.4",
     "ipfs-css": "^0.6.0",
     "tachyons": "^4.9.1",
     "window.ipfs-fallback": "^1.1.0"
